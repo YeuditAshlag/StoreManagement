@@ -1,0 +1,34 @@
+C:\Users\user1\Downloads\jm_hknEgFt5TEaphQ5\Shop\Shop.Data\obj\Debug\net6.0\Shop.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Downloads\jm_hknEgFt5TEaphQ5\Shop\Shop.Data\obj\Debug\net6.0\Shop.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Downloads\jm_hknEgFt5TEaphQ5\Shop\Shop.Data\obj\Debug\net6.0\Shop.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\jm_hknEgFt5TEaphQ5\Shop\Shop.Data\obj\Debug\net6.0\Shop.Data.AssemblyInfo.cs
+C:\Users\user1\Downloads\jm_hknEgFt5TEaphQ5\Shop\Shop.Data\obj\Debug\net6.0\Shop.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\jm_hknEgFt5TEaphQ5\Shop\Shop.Data\bin\Debug\net6.0\Shop.Data.deps.json
+C:\Users\user1\Downloads\jm_hknEgFt5TEaphQ5\Shop\Shop.Data\bin\Debug\net6.0\Shop.Data.runtimeconfig.json
+C:\Users\user1\Downloads\jm_hknEgFt5TEaphQ5\Shop\Shop.Data\bin\Debug\net6.0\Shop.Data.dll
+C:\Users\user1\Downloads\jm_hknEgFt5TEaphQ5\Shop\Shop.Data\bin\Debug\net6.0\Shop.Data.pdb
+C:\Users\user1\Downloads\jm_hknEgFt5TEaphQ5\Shop\Shop.Data\bin\Debug\net6.0\Shop.Core.dll
+C:\Users\user1\Downloads\jm_hknEgFt5TEaphQ5\Shop\Shop.Data\bin\Debug\net6.0\Shop.Core.pdb
+C:\Users\user1\Downloads\jm_hknEgFt5TEaphQ5\Shop\Shop.Data\obj\Debug\net6.0\Shop.Data.csproj.CopyComplete
+C:\Users\user1\Downloads\jm_hknEgFt5TEaphQ5\Shop\Shop.Data\obj\Debug\net6.0\Shop.Data.dll
+C:\Users\user1\Downloads\jm_hknEgFt5TEaphQ5\Shop\Shop.Data\obj\Debug\net6.0\refint\Shop.Data.dll
+C:\Users\user1\Downloads\jm_hknEgFt5TEaphQ5\Shop\Shop.Data\obj\Debug\net6.0\Shop.Data.pdb
+C:\Users\user1\Downloads\jm_hknEgFt5TEaphQ5\Shop\Shop.Data\obj\Debug\net6.0\Shop.Data.genruntimeconfig.cache
+C:\Users\user1\Downloads\jm_hknEgFt5TEaphQ5\Shop\Shop.Data\obj\Debug\net6.0\ref\Shop.Data.dll
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\dotnet\project\Shop\Shop.Data\bin\Debug\net6.0\Shop.Data.deps.json
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\dotnet\project\Shop\Shop.Data\bin\Debug\net6.0\Shop.Data.runtimeconfig.json
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\dotnet\project\Shop\Shop.Data\bin\Debug\net6.0\Shop.Data.dll
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\dotnet\project\Shop\Shop.Data\bin\Debug\net6.0\Shop.Data.pdb
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\dotnet\project\Shop\Shop.Data\bin\Debug\net6.0\Shop.Core.dll
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\dotnet\project\Shop\Shop.Data\bin\Debug\net6.0\Shop.Core.pdb
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\dotnet\project\Shop\Shop.Data\obj\Debug\net6.0\Shop.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\dotnet\project\Shop\Shop.Data\obj\Debug\net6.0\Shop.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\dotnet\project\Shop\Shop.Data\obj\Debug\net6.0\Shop.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\dotnet\project\Shop\Shop.Data\obj\Debug\net6.0\Shop.Data.AssemblyInfo.cs
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\dotnet\project\Shop\Shop.Data\obj\Debug\net6.0\Shop.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\dotnet\project\Shop\Shop.Data\obj\Debug\net6.0\Shop.Data.csproj.CopyComplete
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\dotnet\project\Shop\Shop.Data\obj\Debug\net6.0\Shop.Data.dll
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\dotnet\project\Shop\Shop.Data\obj\Debug\net6.0\refint\Shop.Data.dll
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\dotnet\project\Shop\Shop.Data\obj\Debug\net6.0\Shop.Data.pdb
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\dotnet\project\Shop\Shop.Data\obj\Debug\net6.0\Shop.Data.genruntimeconfig.cache
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\dotnet\project\Shop\Shop.Data\obj\Debug\net6.0\ref\Shop.Data.dll
